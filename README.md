@@ -18,18 +18,12 @@ Here are some ideas to get you started:
 ### Hi there 👋
 Hello! This is Tirtha. I am an adventurer. 
 
-### Academics
-I have a Ph.D. in EE (finished in the last decade) but decided to get back to academics recently! I am working on a [M.S. in Computational Data Analytics](https://pe.gatech.edu/master-science-degrees/analytics/program-information/computational-data-analytics-track) from Georgia Tech. It is super exciting and fun learning!
-
 ### Books, lectures, articles
 I publish highly-cited articles regularly on data science and machine learning topics, on leading platforms such [Towards Data Science](https://towardsdatascience.com/@tirthajyoti), [KDNuggets](https://www.kdnuggets.com/author/tirthajyoti-sarkar), and [Analytics Vidya](https://medium.com/analytics-vidhya/why-a-business-analytics-problem-demands-all-of-your-expertise-at-once-1290170808c4). 
 
 I also teach [IEEE/ACM workshops on data science/ machine learning](https://valleyml.thinkific.com/bundles/machine-learning-and-deep-learning-boot-camp).
 
 My first data science related book [Data wrangling with Python](https://www.amazon.com/Data-Wrangling-Python-Creating-actionable-ebook/dp/B07JF26NGJ) was published on February, 2019. In future, I wish to self-publish a second book about Hands-on mathematics/statistics for data scientists.
-
-### Work
-Currently, I work as a Senior Principal Engineer at [ON Semiconductor](http://www.onsemi.com/) in the MOSFET Device Design group. I have been a semiconductor technologist for 15+ years, working in the field of power electronics systems and semiconductor technology development. I am also leading AI/ML based projects to add value to semiconductor design and product innovations.
 
 ### Open-source
 My open-source projects spanning topics of - general data analytics, machine learning, deep learning, computer vision and image processing, math and statistics, synthetic data generation, etc.
