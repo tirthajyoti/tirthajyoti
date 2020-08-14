@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://raw.githubusercontent.com/tirthajyoti/tirthajyoti/master/Stylized-1.gif" width=200 align="middle">
+
 ### Hi there 👋
 Hello! This is Tirtha. I am an adventurer. 
 
