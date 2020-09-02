@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![img1](https://raw.githubusercontent.com/tirthajyoti/tirthajyoti/master/Avatar-1.png)
+<img src="https://raw.githubusercontent.com/tirthajyoti/tirthajyoti/master/Avatar-1.png" width=200 align=center>
 
 ### Hi there 👋
 Hello! This is Tirtha. I am an adventurer.
