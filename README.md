@@ -12,8 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img src="https://raw.githubusercontent.com/tirthajyoti/tirthajyoti/master/Avatar-1.png" width=200 align=center>
+<p align="center">
+<img src="https://raw.githubusercontent.com/tirthajyoti/tirthajyoti/master/Photolab-1.jpeg" width=200>
+</p>
 
 ### Hi there 👋
 Hello! This is Tirtha. I am an adventurer.
