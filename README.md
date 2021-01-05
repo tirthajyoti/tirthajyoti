@@ -22,7 +22,7 @@ Hello! This is Tirtha. I am an adventurer.
 
 - 🌱 I’m currently learning: _JavaScript, D3.js, Node, Hadoop-related techs, Spark_, and _how to make ML-apps_.
 
-- 👯 I’m looking to collaborate on: **Data science/ML books**. Probably will use [Jupyter Books](https://jupyterbook.org/intro.html). Anyone interested?
+- 👯 I’m looking to collaborate on: **Data science/ML books**. Probably will use [Jupyter Books](https://jupyterbook.org/intro.html) and [Leanpub platform](https://leanpub.com/)
 
 ### Books, lectures, articles
 I publish highly-cited articles regularly on data science and machine learning topics, on leading platforms such [Towards Data Science](https://towardsdatascience.com/@tirthajyoti), [KDNuggets](https://www.kdnuggets.com/author/tirthajyoti-sarkar), and [Analytics Vidya](https://medium.com/analytics-vidhya/why-a-business-analytics-problem-demands-all-of-your-expertise-at-once-1290170808c4). 
