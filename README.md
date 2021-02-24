@@ -23,7 +23,7 @@ I am a Data Science Engineering Manager at [Adapdix Corp,](https://www.adapdix.c
 
 - 🔭 I’m currently working on: lectures/workshops, courses, and spreading knowledge on machine learning/statistical modeling.
 
-- 🌱 I’m currently learning: _JavaScript, D3.js, Node, Hadoop-related techs, Spark_, and _how to make ML-apps_.
+- 🌱 I’m currently learning: _ML flow management tools, and how AI?ML applies to Industrial IoT_.
 
 - 👯 I’m looking to collaborate on: **Data science/ML books**. Probably will use [Jupyter Books](https://jupyterbook.org/intro.html) and [Leanpub platform](https://leanpub.com/)
 
