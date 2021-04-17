@@ -35,6 +35,10 @@ I also teach [IEEE/ACM workshops on data science/ machine learning](https://vall
 My first data science related book [Data wrangling with Python](https://www.amazon.com/Data-Wrangling-Python-Creating-actionable-ebook/dp/B07JF26NGJ) was published on February, 2019. In future, I wish to self-publish a second book about Hands-on mathematics/statistics for data scientists.
 
 ### Open-source
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tirthajyoti)
+
+
 My open-source projects spans the topics of,
 
 - general data analytics, 
