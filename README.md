@@ -50,6 +50,8 @@ My open-source projects spans the topics of,
 
 I have published multiple Python packages related to data analytics and statistical modeling. [See this page](https://tirthajyoti.github.io/GithubProjects.html) for my projects
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tirthajyoti)](https://github.com/tirthajyoti/github-readme-stats)
+
 ### Contribution to the technical community
 I am serving on the Technical Content Committee for the [Open Data Science Conference (ODSC) West, 2020](https://odsc.com/california/).
 
