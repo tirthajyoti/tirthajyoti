@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
+### Welcome 👋
 Hello! This is Tirtha. I am an adventurer.
 
 ### Work
