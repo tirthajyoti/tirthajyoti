@@ -27,7 +27,7 @@ For the visually inclined, here is where I am putting my data science skills to 
 
 - 🔭 I’m currently working on: lectures/workshops, courses, and spreading knowledge on machine learning/statistical modeling. In particular, I serving as the **Track Chair of "AI Optimization" track** for the **[ValleyML AI Expo 2021](https://www.valleyml.ai/)**. Also, I am developing course content for the **[ValleyML Fellowship program](https://www.valleyml.ai/fellowship)**.
 
-- 🌱 I’m currently learning: _ML flow management tools, and how AI/ML applies to Industrial IoT_.
+- 🌱 I’m currently learning: _ML flow management tools_, _Ray serve and distributed computing_, and how AI/ML applies to the various aspects of the Industrial IoT sector.
 
 - 👯 I’m looking to collaborate on: **Data science/ML books**. Probably will use [Jupyter Books](https://jupyterbook.org/intro.html) and [Leanpub platform](https://leanpub.com/)
 
