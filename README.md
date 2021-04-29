@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Hello! This is Tirtha. I am an adventurer.
 
 ### Work
-I am a Data Science Engineering Manager at [Adapdix Corp,](https://www.adapdix.com/) putting the power of AI/ML on the Edge for [Industry 4.0](https://www.forbes.com/sites/bernardmarr/2018/09/02/what-is-industry-4-0-heres-a-super-easy-explanation-for-anyone/?sh=587ea6ab9788) and next-generation [Smart Factory](https://www2.deloitte.com/us/en/insights/focus/industry-4-0/smart-factory-connected-manufacturing.html).
+I am a **Data Science and Solutions Engineering Manager** at [Adapdix Corp,](https://www.adapdix.com/) putting the power of AI/ML on the Edge for [Industry 4.0](https://www.forbes.com/sites/bernardmarr/2018/09/02/what-is-industry-4-0-heres-a-super-easy-explanation-for-anyone/?sh=587ea6ab9788) and next-generation [Smart Factory](https://www2.deloitte.com/us/en/insights/focus/industry-4-0/smart-factory-connected-manufacturing.html).
 
 For the visually inclined, here is where I am putting my data science skills to use...
 
@@ -25,7 +25,7 @@ For the visually inclined, here is where I am putting my data science skills to 
 
 ### Currently...
 
-- 🔭 I’m currently working on: lectures/workshops, courses, and spreading knowledge on machine learning/statistical modeling.
+- 🔭 I’m currently working on: lectures/workshops, courses, and spreading knowledge on machine learning/statistical modeling. In particular, I serving as the **Track Chair of "AI Optimization" track** for the **[ValleyML AI Expo 2021](https://www.valleyml.ai/)**. Also, I am developing course content for the **[ValleyML Fellowship program](https://www.valleyml.ai/fellowship)**.
 
 - 🌱 I’m currently learning: _ML flow management tools, and how AI/ML applies to Industrial IoT_.
 
