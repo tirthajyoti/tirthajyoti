@@ -38,6 +38,24 @@ I also teach [IEEE/ACM workshops on data science/ machine learning](https://vall
 
 My first data science related book [Data wrangling with Python](https://www.amazon.com/Data-Wrangling-Python-Creating-actionable-ebook/dp/B07JF26NGJ) was published on February, 2019. In future, I wish to self-publish a second book about Hands-on mathematics/statistics for data scientists.
 
+### Skills
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/Database-InfluxDB-informational?style=flat&logo=influxdb&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/Frontend-HTML-informational?style=flat&logo=html5&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/Frontend-CSS-informational?style=flat&logo=css&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/Frontend-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/Frontend-D3.js-informational?style=flat&logo=d3js&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/Editor-VS-Code-informational?style=flat&logo=vscode&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=bash&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/DeepLearning-Keras-informational?style=flat&logo=pytorch&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/DeepLearning-PyTorch-informational?style=flat&logo=keras&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/ML-ScikitLearn-informational?style=flat&logo=sklearn&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/DataViz-Plotly-informational?style=flat&logo=plotly&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/DataViz-Seaborn-informational?style=flat&logo=seaborn&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/Deployment-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2CD4A7)
+
 ### Open-source
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tirthajyoti)
