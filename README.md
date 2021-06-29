@@ -75,7 +75,10 @@ I have published multiple Python packages related to data analytics and statisti
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tirthajyoti)](https://github.com/tirthajyoti/github-readme-stats)
 
 ### Contribution to the technical community
-I am serving on the Technical Content Committee for the [Open Data Science Conference (ODSC) West, 2020](https://odsc.com/california/).
+
+Currently, in the organizing committe of [ValleyML AI Expo 2021](https://www.valleyml.ai/).
+
+I served on the Technical Content Committee for the [Open Data Science Conference (ODSC) West, 2020](https://odsc.com/california/).
 
 In 2015, I was elevated to the grade of **[Senior Member of IEEE](https://www.ieee.org/membership/senior/senior-requirements.html)** for my contributions towards power electronics. I have **authored/co-authored more than 25 peer-reviewed Transaction and Conference papers, 2 monographs/book chapters, and 4 U.S. Patents**. Here is my [Google Scholar Page](https://scholar.google.com/citations?user=PUAA0uQAAAAJ&hl=en).
 
