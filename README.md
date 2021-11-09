@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 -->
 
 ### Welcome 👋
-Hello! This is Tirtha. I am an explorer. **I translate customer business problems into data-driven problems and help build solutions**.
+Hello! This is Tirtha. I am an explorer.
 
 ### Work
 I am a **Data Science and Solutions Engineering Manager** at [Adapdix Corp,](https://www.adapdix.com/) putting the power of AI/ML on the Edge for [Industry 4.0](https://www.forbes.com/sites/bernardmarr/2018/09/02/what-is-industry-4-0-heres-a-super-easy-explanation-for-anyone/?sh=587ea6ab9788) and next-generation [Smart Factory](https://www2.deloitte.com/us/en/insights/focus/industry-4-0/smart-factory-connected-manufacturing.html).
+
+At its core, **I translate customer business problems into data-driven problems and help build solutions**.
 
 For the visually inclined, here is where I am putting my data science skills to use...
 
