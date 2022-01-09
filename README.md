@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 ### Welcome 👋
 Hello! This is Tirtha. I am an explorer.
 
+* [My LinkedIn profile](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/)
+* [My Medium articles on Data Science and Machine Learning](https://medium.com/@tirthajyoti)
+* [My KDNuggets articles](https://www.kdnuggets.com/author/tirthajyoti-sarkar)
+
+
 ### Work
 I am a **Data Science and Solutions Engineering Manager** at [Adapdix Corp,](https://www.adapdix.com/) putting the power of AI/ML on the Edge for [Industry 4.0](https://www.forbes.com/sites/bernardmarr/2018/09/02/what-is-industry-4-0-heres-a-super-easy-explanation-for-anyone/?sh=587ea6ab9788) and next-generation [Smart Factory](https://www2.deloitte.com/us/en/insights/focus/industry-4-0/smart-factory-connected-manufacturing.html).
 
