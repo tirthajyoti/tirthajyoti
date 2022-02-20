@@ -22,17 +22,19 @@ Hello! This is Tirtha. I am an explorer.
 
 
 ### Work
-I am a **Data Science and Solutions Engineering Manager** at [Adapdix Corp,](https://www.adapdix.com/) putting the power of AI/ML on the Edge for [Industry 4.0](https://www.forbes.com/sites/bernardmarr/2018/09/02/what-is-industry-4-0-heres-a-super-easy-explanation-for-anyone/?sh=587ea6ab9788) and next-generation [Smart Factory](https://www2.deloitte.com/us/en/insights/focus/industry-4-0/smart-factory-connected-manufacturing.html).
+I am working as **Sr. Director, AI/ML Platform**, at [Rhombus Power Inc.](https://rhombuspower.com/), where I am building exciting and critically important solutions with AI, Data, and Math. 
+
+Before this, I was a **Data Science and Solutions Engineering Manager** at [Adapdix Corp,](https://www.adapdix.com/) putting the power of AI/ML on the Edge for [Industry 4.0](https://www.forbes.com/sites/bernardmarr/2018/09/02/what-is-industry-4-0-heres-a-super-easy-explanation-for-anyone/?sh=587ea6ab9788) and next-generation [Smart Factory](https://www2.deloitte.com/us/en/insights/focus/industry-4-0/smart-factory-connected-manufacturing.html).
+
+Even, before that I was developing power semiconductor technologies and applying AI/ML for semiconductor product/tech deveklopment at [ON Semiconductor, also known as onsemi](https://www.onsemi.com/).
 
 At its core, **I translate customer business problems into data-driven problems and help build solutions**.
 
-For the visually inclined, here is where I am putting my data science skills to use...
-
-![IIOT](https://y6b8k9e7.stackpathcdn.com/wp-content/uploads/2018/01/shutterstock_567310369-e1514847923696.jpg)
-
 ### Currently...
 
-- 🔭 Writing a book with [Apress/Springer](https://www.apress.com/us) on the topic of ***"Productive and Efficient Data Science"***
+- 🔭 Writing a book with [Apress/Springer](https://www.apress.com/us) on the topic of ***"Productive and Efficient Data Science"***. You can [pre-order the book here](https://www.amazon.com/Productive-Efficient-Data-Science-Python/dp/1484281209/).
+![apress-book-cover](https://raw.githubusercontent.com/tirthajyoti/tirthajyoti/master/Cover-Productive%20and%20Efficient%20Data%20Science.jpg)
+
 - 🔭 I’m currently working on: lectures/workshops, courses, and spreading knowledge on machine learning/statistical modeling. In particular, I serving as the **Track Chair of "AI Optimization" track** for the **[ValleyML AI Expo 2021](https://www.valleyml.ai/)**. Also, I am developing course content for the **[ValleyML Fellowship program](https://www.valleyml.ai/fellowship)**.
 
 - 🌱 I’m currently learning: _ML flow management tools_, _Ray serve and distributed computing_, and how AI/ML applies to the various aspects of the Industrial IoT sector.
