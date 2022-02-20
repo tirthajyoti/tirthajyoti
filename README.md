@@ -33,7 +33,7 @@ At its core, **I translate customer business problems into data-driven problems 
 ### Currently...
 
 - 🔭 Writing a book with [Apress/Springer](https://www.apress.com/us) on the topic of ***"Productive and Efficient Data Science"***. You can [pre-order the book here](https://www.amazon.com/Productive-Efficient-Data-Science-Python/dp/1484281209/).
-![apress-book-cover](https://raw.githubusercontent.com/tirthajyoti/tirthajyoti/master/Cover-Productive%20and%20Efficient%20Data%20Science.jpg)
+<img src="https://raw.githubusercontent.com/tirthajyoti/tirthajyoti/master/Cover-Productive%20and%20Efficient%20Data%20Science.jpg" width="300" align="middle">
 
 - 🔭 I’m currently working on: lectures/workshops, courses, and spreading knowledge on machine learning/statistical modeling. In particular, I serving as the **Track Chair of "AI Optimization" track** for the **[ValleyML AI Expo 2021](https://www.valleyml.ai/)**. Also, I am developing course content for the **[ValleyML Fellowship program](https://www.valleyml.ai/fellowship)**.
 
