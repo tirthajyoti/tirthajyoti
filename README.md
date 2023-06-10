@@ -22,7 +22,7 @@ Hello! This is Tirtha. I am an explorer.
 
 
 ### Work
-I am working as **Sr. Director, AI/ML Platform**, at [Rhombus Power Inc.](https://rhombuspower.com/), where I am building exciting and critically important solutions with AI, Data, and Math. 
+I am working as **VP, AI/ML**, at [Rhombus Power Inc.](https://rhombuspower.com/), where I am building exciting and critically important solutions with AI, Data, and Math. 
 
 Before this, I was a **Data Science and Solutions Engineering Manager** at [Adapdix Corp,](https://www.adapdix.com/) putting the power of AI/ML on the Edge for [Industry 4.0](https://www.forbes.com/sites/bernardmarr/2018/09/02/what-is-industry-4-0-heres-a-super-easy-explanation-for-anyone/?sh=587ea6ab9788) and next-generation [Smart Factory](https://www2.deloitte.com/us/en/insights/focus/industry-4-0/smart-factory-connected-manufacturing.html).
 
