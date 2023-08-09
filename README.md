@@ -61,7 +61,7 @@ My first data science related book [Data wrangling with Python](https://www.amaz
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=bash&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/DeepLearning-Keras-informational?style=flat&logo=pytorch&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/DeepLearning-PyTorch-informational?style=flat&logo=keras&logoColor=white&color=2CD4A7)
-![](https://img.shields.io/badge/API-FastAPI-informational?style=flat&logo=keras&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/API-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/ML-ScikitLearn-informational?style=flat&logo=sklearn&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/DataViz-Plotly-informational?style=flat&logo=plotly&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/DataViz-Seaborn-informational?style=flat&logo=seaborn&logoColor=white&color=2CD4A7)
@@ -72,7 +72,7 @@ My first data science related book [Data wrangling with Python](https://www.amaz
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tirthajyoti)
 
 
-My open-source projects spans the topics of,
+My open-source projects span the topics of,
 
 - general data analytics, 
 - machine learning, 
@@ -87,7 +87,7 @@ I have published multiple Python packages related to data analytics and statisti
 
 ### Contribution to the technical community
 
-Currently, in the organizing committe of [ValleyML AI Expo 2021](https://www.valleyml.ai/).
+Currently, in the organizing committee of [ValleyML AI Expo 2021](https://www.valleyml.ai/).
 
 I served on the Technical Content Committee for the [Open Data Science Conference (ODSC) West, 2020](https://odsc.com/california/).
 
