@@ -61,6 +61,7 @@ My first data science related book [Data wrangling with Python](https://www.amaz
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=bash&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/DeepLearning-Keras-informational?style=flat&logo=pytorch&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/DeepLearning-PyTorch-informational?style=flat&logo=keras&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/API-FastAPI-informational?style=flat&logo=keras&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/ML-ScikitLearn-informational?style=flat&logo=sklearn&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/DataViz-Plotly-informational?style=flat&logo=plotly&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/DataViz-Seaborn-informational?style=flat&logo=seaborn&logoColor=white&color=2CD4A7)
